@@ -10,3 +10,6 @@ Building a basic form
 + $~cd MyForm/form
 + $~npm i
 + $~npm start
+
+# HOME PAGE
+## localhost:3000/form
